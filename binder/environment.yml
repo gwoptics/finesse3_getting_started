@@ -15,3 +15,5 @@ dependencies:
   - deprecated >= 1.2
   - pyspellchecker >= 0.6
   - more-itertools >= 8.7
+  - finesse
+  
