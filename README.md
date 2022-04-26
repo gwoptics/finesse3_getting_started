@@ -13,8 +13,8 @@ This [Binder](https://mybinder.org/) provides a [Jupyter](https://jupyter.org/) 
 
 ## Get Finesse
 If you decide to continue using Finesse, there are currently two options: 
-* if you are mostly interested in obtaining results for your own interferometry     work, we recommend to use Finesse 2 via the `conda` package manager from Anaconda.  Please follow the instructions provided in the [Finesse 2 installation guide](http://www.gwoptics.org/finesse/download/Install.html).
-* if you are interested in hacking the code, or implement new features you are welcome to play with the source code of version of Finesse 3. See for example the   [Finesse 3 installation instructions](https://finesse.docs.ligo.org/finesse3/getting_started/install/) or the [Finesse 3 developer guide](https://finesse.docs.ligo.org/finesse3/developer/) for an installation guide.
+* if you are mostly interested in obtaining results for your own interferometry work, we recommend to use Finesse 2 via the `conda` package manager from Anaconda.  Please follow the instructions provided in the [Finesse 2 installation guide](http://www.gwoptics.org/finesse/download/Install.html).
+* if you are interested in hacking the code, or implement new features you are welcome to play with the source code of version of Finesse 3. See for example the [Finesse 3 installation instructions](https://finesse.docs.ligo.org/finesse3/getting_started/install/) or the [Finesse 3 developer guide](https://finesse.docs.ligo.org/finesse3/developer/).
 
 In either case, feel free to get in touch!
 
