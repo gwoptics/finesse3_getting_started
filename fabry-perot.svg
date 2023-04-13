@@ -6,9 +6,9 @@
    height="103.43415"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
    version="1.0"
-   sodipodi:docname="fabry-perot02.svg"
+   sodipodi:docname="fabry-perot.svg"
    style="enable-background:new"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -31,17 +31,17 @@
      objecttolerance="10"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="7.2921348"
-     inkscape:cx="158.32126"
-     inkscape:cy="78.303544"
+     inkscape:zoom="2.2816449"
+     inkscape:cx="168.51878"
+     inkscape:cy="51.717075"
      inkscape:document-units="px"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer3"
      width="1052.3622px"
      height="744.09449px"
-     inkscape:window-width="3840"
-     inkscape:window-height="2123"
+     inkscape:window-width="1309"
+     inkscape:window-height="456"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="38"
      showgrid="false"
      showguides="false"
      gridanglex="8.4666669mm"
@@ -50,7 +50,7 @@
      inkscape:grid-points="true"
      inkscape:guide-points="true"
      inkscape:guide-bbox="true"
-     inkscape:window-maximized="1"
+     inkscape:window-maximized="0"
      units="px"
      inkscape:snap-to-guides="false"
      inkscape:snap-grids="true"
@@ -58,7 +58,9 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:pagecheckerboard="0">
+     inkscape:pagecheckerboard="0"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        id="GridFromPre046Settings"
        type="xygrid"
@@ -1107,16 +1109,6 @@
        fx="9.5870008"
        fy="8.2452106"
        r="6.7529998" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3622"
-       id="linearGradient7578"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.8,0,0,0.8,-34.8284,-61.1108)"
-       x1="44.537998"
-       y1="112.411"
-       x2="44.537998"
-       y2="81.920998" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3622"
@@ -4646,8 +4638,8 @@
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0" />
     <path
-       style="display:inline;fill:none;stroke:#ff0000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 589.79255,378.93963 -0.27572,70.99086"
+       style="display:inline;fill:none;stroke:#ff0000;stroke-width:1.40386;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 589.84062,403.87353 -0.37186,46.10503"
        id="path7454"
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0" />
@@ -5061,103 +5053,6 @@
            x="7.4159999"
            style="stroke:#000000;stroke-width:0.75" />
       </g>
-    </g>
-    <g
-       style="display:inline"
-       id="g7548"
-       transform="matrix(0,-0.375,0.375,0,583.58045,381.06561)">
-      <linearGradient
-         id="linearGradient7550"
-         gradientUnits="userSpaceOnUse"
-         x1="55.993198"
-         y1="110.8086"
-         x2="55.993198"
-         y2="81.256798"
-         gradientTransform="matrix(0.8,0,0,0.8,-33.8884,-60.2056)">
-        <stop
-           offset="0"
-           style="stop-color:#FFFFFF"
-           id="stop7552" />
-        <stop
-           offset="0.1314"
-           style="stop-color:#C4C4C4"
-           id="stop7554" />
-        <stop
-           offset="0.3752"
-           style="stop-color:#5C5C5C"
-           id="stop7556" />
-        <stop
-           offset="0.5444"
-           style="stop-color:#1A1A1A"
-           id="stop7558" />
-        <stop
-           offset="0.6236"
-           style="stop-color:#000000"
-           id="stop7560" />
-        <stop
-           offset="0.6657"
-           style="stop-color:#151515"
-           id="stop7562" />
-        <stop
-           offset="0.7529"
-           style="stop-color:#4C4C4C"
-           id="stop7564" />
-        <stop
-           offset="0.8765"
-           style="stop-color:#A2A2A2"
-           id="stop7566" />
-        <stop
-           offset="1"
-           style="stop-color:#FFFFFF"
-           id="stop7568" />
-        <a:midPointStop
-           offset="0"
-           style="stop-color:#FFFFFF" />
-        <a:midPointStop
-           offset="0.4636"
-           style="stop-color:#FFFFFF" />
-        <a:midPointStop
-           offset="0.6236"
-           style="stop-color:#000000" />
-        <a:midPointStop
-           offset="0.5441"
-           style="stop-color:#000000" />
-        <a:midPointStop
-           offset="1"
-           style="stop-color:#FFFFFF" />
-      </linearGradient>
-      <rect
-         style="fill:url(#linearGradient7578);fill-opacity:1;stroke:#000000;stroke-width:0.75"
-         x="1.177"
-         y="4.8010001"
-         i:knockout="Off"
-         width="19.462999"
-         height="23.642"
-         id="rect7570" />
-      <rect
-         style="stroke:#000000"
-         x="0.5"
-         y="0.5"
-         i:knockout="Off"
-         width="2.5699999"
-         height="32.131001"
-         id="rect7572" />
-      <rect
-         style="stroke:#000000"
-         x="6.7849998"
-         y="0.5"
-         i:knockout="Off"
-         width="3.8150001"
-         height="32.131001"
-         id="rect7574" />
-      <rect
-         style="stroke:#000000"
-         x="14.206"
-         y="0.5"
-         i:knockout="Off"
-         width="7.6100001"
-         height="32.131001"
-         id="rect7576" />
     </g>
     <g
        style="display:inline"
