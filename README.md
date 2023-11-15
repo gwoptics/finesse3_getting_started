@@ -1,5 +1,7 @@
 # Finesse 3: Getting started
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gl/ifosim%2Ffinesse%2Ffinesse3_getting_started/main)
+
 ## About
 [Finesse 3](https://Finesse.docs.ligo.org/Finesse3) (Frequency domain INterfErometer Simulation SoftwarE) is a fast and easy to use Python-based interferometer simulation program. It uses frequency-domain optical modelling to build accurate quasi-static simulations of arbitrary interferometer configurations.
 
@@ -9,7 +11,7 @@ Double-click on these Jupyter notebooks in the sidebar to run the examples:
 * 1_Finesse3_introduction.ipynb
 * 2_Finesse3_GWdetector_sensitivity.ipynb
 
-This [Binder](https://mybinder.org/) provides a [Jupyter](https://jupyter.org/) environment with Finesse 3 pre-installed, so that new users can 'try before they buy'.  The initial loading time may be slow depending usage and server load, but then you can play around with the live code in the example notebook, create your own notebook, or upload another notebook you wish to test-run. Note that work *cannot* be saved long-term in this environment, and the Binder will shut down after 10mins of inactivity (e.g. closing the browser tab), so it is not suitable as a substitute for installation. But you can download your work to save them locally.
+This [Binder](https://mybinder.org/v2/gl/ifosim%2Ffinesse%2Ffinesse3_getting_started/main) provides a [Jupyter](https://jupyter.org/) environment with Finesse 3 pre-installed, so that new users can 'try before they buy'.  The initial loading time may be slow depending usage and server load, but then you can play around with the live code in the example notebook, create your own notebook, or upload another notebook you wish to test-run. Note that work *cannot* be saved long-term in this environment, and the Binder will shut down after 10mins of inactivity (e.g. closing the browser tab), so it is not suitable as a substitute for installation. But you can download your work to save them locally.
 
 ## Get Finesse
 If you decide to continue using Finesse, there are currently two options: 
