@@ -1,17 +1,37 @@
 # Finesse 3: Getting started
 
+## Try without installing
+
+We provide 2 ways to 'try before you buy'.
+Both ways will stop your python session after some time, so it is not suitable as a substitute for installation. 
+You can always download and save your work locally
+
+### Google Colab
+
+Click on the badge below to open this repository in Google Colab. 
+You can then select either of the notebooks to open and run them.
+This requires you to sign in to a Google account. 
+You can save copies of the notebooks in Google Drive.
+
+[![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gwoptics/Ffinesse3_getting_started)
+
+### Binder
+
+Alternative that does not require a Google account. Can be slower to start up.
+Creates a [Jupyter](https://jupyter.org/) environment with Finesse 3 pre-installed.
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gl/ifosim%2Ffinesse%2Ffinesse3_getting_started/main)
 
 ## About
 
-[Finesse 3](https://finesse.ifosim.org/docs/latest/) (Frequency domain INterfErometer Simulation SoftwarE) is a fast and easy to use Python-based interferometer simulation program. It uses frequency-domain optical modelling to build accurate quasi-static simulations of arbitrary interferometer configurations.
+[Finesse 3](https://finesse.ifosim.org/docs/latest/) (Frequency domain INterfErometer Simulation SoftwarE) is a fast and easy to use Python-based interferometer simulation program. 
+It uses frequency-domain optical modelling to build accurate quasi-static simulations of arbitrary interferometer configurations.
 
-Double-click on these Jupyter notebooks in the sidebar to run the examples:
+It contains the following examples:
 
 * 1_Finesse3_introduction.ipynb
 * 2_Finesse3_GWdetector_sensitivity.ipynb
 
-This [Binder](https://mybinder.org/v2/gl/ifosim%2Ffinesse%2Ffinesse3_getting_started/main) provides a [Jupyter](https://jupyter.org/) environment with Finesse 3 pre-installed, so that new users can 'try before they buy'.  The initial loading time may be slow depending usage and server load, but then you can play around with the live code in the example notebook, create your own notebook, or upload another notebook you wish to test-run. Note that work *cannot* be saved long-term in this environment, and the Binder will shut down after 10mins of inactivity (e.g. closing the browser tab), so it is not suitable as a substitute for installation. But you can download your work to save them locally.
 
 ## Get Finesse
 
@@ -41,3 +61,18 @@ General support is available by emailing us at finesse-support(at)nikhef.nl. If 
 * Operating System and installation method used
 * versions of Finesse you are using
 * [Minimum Working Example](https://en.wikipedia.org/wiki/Minimal_working_example) to reproduce the bug you encountered
+
+## For maintainers
+
+Note that this repo lives in two places:
+
+- https://gitlab.com/ifosim/finesse/finesse3_getting_started
+- https://github.com/gwoptics/finesse3_getting_started
+
+The github exists only because it is required for Google Colab. 
+The repository is mirrored from gitlab -> github.
+All commits should be made on the gitlab repository and will be synchronised to the github repo.
+You can start a manual synchronisation [here](https://gitlab.com/ifosim/finesse/finesse3_getting_started/-/settings/repository#js-push-remote-settings)
+The github repo is configured to disallow any pushes. 
+The mirroring depends on a [PAT](https://github.com/organizations/gwoptics/settings/personal-access-tokens/766651)
+that expires on Thu, Aug 13 2026 
