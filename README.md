@@ -13,7 +13,7 @@ You can then select either of the notebooks to open and run them.
 This requires you to sign in to a Google account. 
 You can save copies of the notebooks in Google Drive.
 
-[![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gwoptics/Ffinesse3_getting_started)
+[![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gwoptics/finesse3_getting_started)
 
 ### Binder
 
