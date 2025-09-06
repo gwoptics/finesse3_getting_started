@@ -20,7 +20,7 @@ You can save copies of the notebooks in Google Drive.
 Alternative that does not require a Google account. Can be slower to start up.
 Creates a [Jupyter](https://jupyter.org/) environment with Finesse 3 pre-installed.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gl/ifosim%2Ffinesse%2Ffinesse3_getting_started/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gwoptics/finesse3_getting_started/HEAD)
 
 ## About
 
