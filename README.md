@@ -2,23 +2,17 @@
 
 ## Try without installing
 
-We provide 2 ways to 'try before you buy'.
-Both ways will stop your python session after some time, so it is not suitable as a substitute for installation. 
-You can always download and save your work locally
+We provide two ways to 'try before you buy'. Both ways will stop your python session after some time, so it is not suitable as a substitute for installation. You can always download and save your work locally
 
 ### Google Colab
 
-Click on the badge below to open this repository in Google Colab. 
-You can then select either of the notebooks to open and run them.
-This requires you to sign in to a Google account. 
-You can save copies of the notebooks in Google Drive.
+Click on the badge below to open this repository in Google Colab. You can then select either of the notebooks to open and run them. This requires you to sign in to a Google account. You can save copies of the notebooks in Google Drive.
 
 [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gwoptics/finesse3_getting_started)
 
 ### Binder
 
-Alternative that does not require a Google account. Can be slower to start up.
-Creates a [Jupyter](https://jupyter.org/) environment with Finesse 3 pre-installed.
+This is an alternative that does not require a Google account (can be a bit slower to start up). It creates a [Jupyter](https://jupyter.org/) environment with Finesse 3 pre-installed.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gwoptics/finesse3_getting_started/HEAD)
 
@@ -27,11 +21,9 @@ Creates a [Jupyter](https://jupyter.org/) environment with Finesse 3 pre-install
 [Finesse 3](https://finesse.ifosim.org/docs/latest/) (Frequency domain INterfErometer Simulation SoftwarE) is a fast and easy to use Python-based interferometer simulation program. 
 It uses frequency-domain optical modelling to build accurate quasi-static simulations of arbitrary interferometer configurations.
 
-It contains the following examples:
+This repository includes the following example notebooks:
 
 * 1_Finesse3_introduction.ipynb
-* 2_Finesse3_GWdetector_sensitivity.ipynb
-
 
 ## Get Finesse
 
