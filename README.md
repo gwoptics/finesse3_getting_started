@@ -24,6 +24,7 @@ It uses frequency-domain optical modelling to build accurate quasi-static simula
 This repository includes the following example notebooks:
 
 * 1_Finesse3_introduction.ipynb
+* 2_Finesse3_GWdetector_sensitivity.ipynb 
 
 ## Get Finesse
 
