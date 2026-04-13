@@ -18,7 +18,7 @@ This is an alternative that does not require a Google account (can be a bit slow
 
 ## About
 
-[Finesse 3](https://finesse.ifosim.org/docs/latest/) (Frequency domain INterfErometer Simulation SoftwarE) is a fast and easy to use Python-based interferometer simulation program. 
+[Finesse 3](https://finesse.ifosim.org/) (Frequency domain INterfErometer Simulation SoftwarE) is a fast and easy to use Python-based interferometer simulation program. 
 It uses frequency-domain optical modelling to build accurate quasi-static simulations of arbitrary interferometer configurations.
 
 This repository includes the following example notebooks:
@@ -30,7 +30,7 @@ This repository includes the following example notebooks:
 
 If you decide to continue using Finesse, there are currently two options:
 
-- [Finesse 3 installation instructions](https://finesse.ifosim.org/docs/latest/getting_started/install/index.html) for installing as a package
+- [Finesse 3 installation instructions](https://finesse.ifosim.org/docs/latest/installing_finesse.html) for installing as a package
 - [Finesse 3 developer guide](https://finesse.ifosim.org/docs/latest/developer/setting_up.html). for playing around with the source code
 
 In either case, feel free to get in touch!
