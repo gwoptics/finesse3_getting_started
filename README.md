@@ -18,20 +18,20 @@ This is an alternative that does not require a Google account (can be a bit slow
 
 ## About
 
-[Finesse 3](https://finesse.ifosim.org/) (Frequency domain INterfErometer Simulation SoftwarE) is a fast and easy to use Python-based interferometer simulation program. 
+[Finesse 3](https://finesse.ifosim.org/) (Frequency domain INterfErometer Simulation SoftwarE) is a fast and easy to use Python-based interferometer simulation program.
 It uses frequency-domain optical modelling to build accurate quasi-static simulations of arbitrary interferometer configurations.
 
 This repository includes the following example notebooks:
 
 * 1_Finesse3_introduction.ipynb
-* 2_Finesse3_GWdetector_sensitivity.ipynb 
+* 2_Finesse3_GWdetector_sensitivity.ipynb
 
 ## Get Finesse
 
 If you decide to continue using Finesse, there are currently two options:
 
-- [Finesse 3 installation instructions](https://finesse.ifosim.org/docs/latest/installing_finesse.html) for installing as a package
-- [Finesse 3 developer guide](https://finesse.ifosim.org/docs/latest/developer/setting_up.html). for playing around with the source code
+* [Finesse 3 installation instructions](https://finesse.ifosim.org/docs/latest/installing_finesse.html) for installing as a package
+* [Finesse 3 developer guide](https://finesse.ifosim.org/docs/latest/developer/setting_up.html). for playing around with the source code
 
 In either case, feel free to get in touch!
 
@@ -59,13 +59,13 @@ General support is available by emailing us at finesse-support(at)nikhef.nl. If 
 
 Note that this repo lives in two places:
 
-- https://gitlab.com/ifosim/finesse/finesse3_getting_started
-- https://github.com/gwoptics/finesse3_getting_started
+* <https://gitlab.com/ifosim/finesse/finesse3_getting_started>
+* <https://github.com/gwoptics/finesse3_getting_started>
 
-The github exists only because it is required for Google Colab. 
+The github exists only because it is required for Google Colab.
 The repository is mirrored from gitlab -> github.
 All commits should be made on the gitlab repository and will be synchronised to the github repo.
-You can start a manual synchronisation [here](https://gitlab.com/ifosim/finesse/finesse3_getting_started/-/settings/repository#js-push-remote-settings)
-The github repo is configured to disallow any pushes. 
+You can start a [manual synchronisation](https://gitlab.com/ifosim/finesse/finesse3_getting_started/-/settings/repository#js-push-remote-settings)
+The github repo is configured to disallow any pushes.
 The mirroring depends on a [PAT](https://github.com/organizations/gwoptics/settings/personal-access-tokens/766651)
-that expires on Thu, Aug 13 2026 
+that expires on Thu, Aug 13 2026
